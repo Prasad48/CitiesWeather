@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCitiesWeather</string>
+    <string name="retry">RETRY</string>
+</resources>
